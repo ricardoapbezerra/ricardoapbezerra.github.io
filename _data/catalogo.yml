@@ -1,8 +1,41 @@
 # Relação de Livros
 livros:
-  - {name: 'Senhor dos Aneis', img: 'assets/img/senhor-dos-aneis.jpg', url: '', descricao: 'Livro aaaa bbbb ccc', preco: '22,00'}
-  - {name: 'a2', img: '', url: '', descricao: 'b',  preco: ''}
-  - {name: 'a3', img: '', url: '', descricao: 'c',  preco: ''}
-  - {name: 'a4', img: '', url: '', descricao: 'd',  preco: ''}
-  - {name: 'a5', img: '', url: '', descricao: 'e',  preco: ''}
-  - {name: 'a6', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Senhor dos Aneis - A Sociedade do Anel', autor: 'J. R. R. Tolkien', img: 'assets/img/senhor-dos-aneis.jpg', url: '', descricao: 'Livro aaaa bbbb ccc', preco: '22,00'}
+  - {name: 'Os Próprios Deuses', autor: 'Isaac Asimov', img: '', url: '', descricao: 'b',  preco: ''}
+  - {name: 'Eu Sou o Número Quatro', autor: 'Pittacus Lore', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Eu Sou o Número Quatro', autor: 'Pittacus Lore', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'O Poder dos Seis', autor: 'Pittacus Lore', img: '', url: '', descricao: 'c',  preco: ''}
+  - {name: 'A Ascensão dos Nove', autor: 'Pittacus Lore', img: '', url: '', descricao: 'd',  preco: ''}
+  - {name: 'Limites da Fundação', autor: 'Isaac Asimov',  img: '', url: '', descricao: 'e',  preco: ''}
+  - {name: 'Segunda Fundação', autor: 'Isaac Asimov', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Fundação e Império', autor: 'Isaac Asimov', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Filhos do Éden - Livro 1', autor: 'Eduardo Spohr', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'A Batalha do Apocalipse', autor: 'Eduardo Spohr', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Crônicas de Espada e Magia', autor: 'Vários', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'O Enigma do Quatro', autor: 'Ian Caldwell', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Deuses, Herois e Lendas', autor: 'Vários', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Um Paranaense - Joanir Zonta', autor: 'Nilson Monteiro', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Metodologia de Pesquisa para Ciências da Computação', autor: '', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Steve Jobs', autor: 'Walter Isaacson', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'O Júri', autor: 'John Grishan', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'O Rei das Fraudes', autor: 'John Grishan', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Amor de Perdição', autor: 'Camilo Castelo Branco', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Felicidade ou Morte', autor: 'Vários', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Branca dos Mortos e os 7 Zumbis', autor: 'Abu Fobiya', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Introdução à HTML e PHP', autor: 'Vários', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Manual do Detetive Virtual', autor: 'Wanderson Castilho', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Por que os Homens mentem?', autor: 'Allan e Barbara Paese', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Desvendando os segredos da Atração Sexual', autor: 'Allan e Barbara Paese', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'A Linguagem Corporal no Trabalho', autor: 'Allan e Barbara Paese', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Dr. House - Um guia para a vida', autor: 'Toni De La Torre', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Sua Carreira', autor: 'Vários', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Casais Inteligentes Enriquecem Juntos', autor: 'Gustavo Cerbasi', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Desvendando o Universo Hacker', autor: 'Fabrizio Vesica', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Causos da Propaganda 2', autor: 'Vários', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Curso Essencial de Lógica de Programação', autor: 'Marilane Almeida', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Roteadores CISCO', autor: 'Marco Fillippet', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'O sentimento da Pedra', autor: 'Latif', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'O Drama da Liderança', autor: 'André Tadeu', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Treinamento Avançado em XML', autor: 'Rogério Amorim de Faria', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Oficina do Empreendedor', autor: 'Fernando Dolabela', img: '', url: '', descricao: 'f',  preco: ''}
+  - {name: 'Detone', autor: 'Vários', img: '', url: '', descricao: 'f',  preco: ''}
