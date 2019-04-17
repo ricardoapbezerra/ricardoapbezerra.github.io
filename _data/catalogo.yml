@@ -1,0 +1,8 @@
+# Relação de Livros
+livros:
+  - {name: 'Senhor dos Aneis', img: 'assets/img/senhor-dos-aneis.jpg', url: '', descricao: 'Livro aaaa bbbb ccc', preco: '22,00'}
+  - {name: 'a2', img: '', url: '', descricao: 'b',  preco: ''}
+  - {name: 'a3', img: '', url: '', descricao: 'c',  preco: ''}
+  - {name: 'a4', img: '', url: '', descricao: 'd',  preco: ''}
+  - {name: 'a5', img: '', url: '', descricao: 'e',  preco: ''}
+  - {name: 'a6', img: '', url: '', descricao: 'f',  preco: ''}
