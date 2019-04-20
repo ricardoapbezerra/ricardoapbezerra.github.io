@@ -1,41 +1,41 @@
 # Relação de Livros
 livros:
-  - {name: 'Senhor dos Aneis - A Sociedade do Anel', autor: 'J. R. R. Tolkien', img: 'assets/img/senhor-dos-aneis.jpg', url: '', descricao: 'Livro aaaa bbbb ccc', preco: '45,00'}
-  - {name: 'Os Próprios Deuses', autor: 'Isaac Asimov', img: '', url: '', descricao: 'b',  preco: '25,00'}
-  - {name: 'Eu Sou o Número Quatro', autor: 'Pittacus Lore', img: '', url: '', descricao: 'f',  preco: '20,00'}
-  - {name: 'Eu Sou o Número Quatro', autor: 'Pittacus Lore', img: '', url: '', descricao: 'f',  preco: '20,00'}
-  - {name: 'O Poder dos Seis', autor: 'Pittacus Lore', img: '', url: '', descricao: 'c',  preco: '20,00'}
-  - {name: 'A Ascensão dos Nove', autor: 'Pittacus Lore', img: '', url: '', descricao: 'd',  preco: '20,00'}
-  - {name: 'Limites da Fundação', autor: 'Isaac Asimov',  img: '', url: '', descricao: 'e',  preco: '35,00'}
-  - {name: 'Segunda Fundação', autor: 'Isaac Asimov', img: '', url: '', descricao: 'f',  preco: '30,00'}
-  - {name: 'Fundação e Império', autor: 'Isaac Asimov', img: '', url: '', descricao: 'f',  preco: '30,00'}
-  - {name: 'Filhos do Éden - Livro 1', autor: 'Eduardo Spohr', img: '', url: '', descricao: 'f',  preco: '15,00'}
-  - {name: 'A Batalha do Apocalipse', autor: 'Eduardo Spohr', img: '', url: '', descricao: 'f',  preco: '20,00'}
-  - {name: 'Crônicas de Espada e Magia', autor: 'Vários', img: '', url: '', descricao: 'f',  preco: '65,00'}
-  - {name: 'O Enigma do Quatro', autor: 'Ian Caldwell', img: '', url: '', descricao: 'f',  preco: '15,00'}
-  - {name: 'Deuses, Herois e Lendas', autor: 'Vários', img: '', url: '', descricao: 'f',  preco: '30,00'}
-  - {name: 'Um Paranaense - Joanir Zonta', autor: 'Nilson Monteiro', img: '', url: '', descricao: 'f',  preco: '5,00'}
-  - {name: 'Metodologia de Pesquisa para Ciências da Computação', autor: '', img: '', url: '', descricao: 'f',  preco: '50,00'}
-  - {name: 'Steve Jobs', autor: 'Walter Isaacson', img: '', url: '', descricao: 'f',  preco: '40,00'}
-  - {name: 'O Júri', autor: 'John Grishan', img: '', url: '', descricao: 'f',  preco: '15,00'}
-  - {name: 'O Rei das Fraudes', autor: 'John Grishan', img: '', url: '', descricao: 'f',  preco: '20,00'}
-  - {name: 'Amor de Perdição', autor: 'Camilo Castelo Branco', img: '', url: '', descricao: 'f',  preco: '10,00'}
-  - {name: 'Felicidade ou Morte', autor: 'Vários', img: '', url: '', descricao: 'f',  preco: '20,00'}
-  - {name: 'Branca dos Mortos e os 7 Zumbis', autor: 'Abu Fobiya', img: '', url: '', descricao: 'f',  preco: '40,00'}
-  - {name: 'Introdução à HTML e PHP', autor: 'Vários', img: '', url: '', descricao: 'f',  preco: '10,00'}
-  - {name: 'Manual do Detetive Virtual', autor: 'Wanderson Castilho', img: '', url: '', descricao: 'f',  preco: '15,00'}
-  - {name: 'Por que os Homens mentem e as Mulheres Choram?', autor: 'Allan e Barbara Paese', img: '', url: '', descricao: 'f',  preco: '20,00'}
-  - {name: 'Desvendando os segredos da Atração Sexual', autor: 'Allan e Barbara Paese', img: '', url: '', descricao: 'f',  preco: '30,00'}
-  - {name: 'A Linguagem Corporal no Trabalho', autor: 'Allan e Barbara Paese', img: '', url: '', descricao: 'f',  preco: '25,00'}
-  - {name: 'Dr. House - Um guia para a vida', autor: 'Toni De La Torre', img: '', url: '', descricao: 'f',  preco: '10,00'}
-  - {name: 'Sua Carreira', autor: 'Vários', img: '', url: '', descricao: 'f',  preco: '15,00'}
-  - {name: 'Casais Inteligentes Enriquecem Juntos', autor: 'Gustavo Cerbasi', img: '', url: '', descricao: 'f',  preco: '20,00'}
-  - {name: 'Desvendando o Universo Hacker', autor: 'Fabrizio Vesica', img: '', url: '', descricao: 'f',  preco: '5,00'}
-  - {name: 'Causos da Propaganda 2', autor: 'Vários', img: '', url: '', descricao: 'f',  preco: '10,00'}
-  - {name: 'Curso Essencial de Lógica de Programação', autor: 'Marilane Almeida', img: '', url: '', descricao: 'f',  preco: '8,00'}
-  - {name: 'Roteadores CISCO', autor: 'Marco Fillippet', img: '', url: '', descricao: 'f',  preco: '20,00'}
-  - {name: 'O Sentimento da Pedra', autor: 'Latif', img: '', url: '', descricao: 'f',  preco: '5,00'}
-  - {name: 'O Drama da Liderança', autor: 'André Tadeu', img: '', url: '', descricao: 'f',  preco: '10,00'}
-  - {name: 'Treinamento Avançado em XML', autor: 'Rogério Amorim de Faria', img: '', url: '', descricao: 'f',  preco: '10,00'}
-  - {name: 'Oficina do Empreendedor', autor: 'Fernando Dolabela', img: '', url: '', descricao: 'f',  preco: '20,00'}
-  - {name: 'Detone', autor: 'Vários', img: '', url: '', descricao: 'f',  preco: '15,00'}
+  - {name: 'A Sociedade do Anel', autor: 'J. R. R. Tolkien',          img: 'assets/img/senhor-dos-aneis.jpg', url: '', descricao: 'Livro aaaa bbbb ccc', preco: '45,00'}
+  - {name: 'Os Próprios Deuses', autor: 'Isaac Asimov',               img: 'assets/img/os-proprios-deuses.jpg', url: '', descricao: 'b',  preco: '25,00'}
+  - {name: 'Eu Sou o Número Quatro', autor: 'Pittacus Lore',          img: 'assets/img/eu-sou-numero-quatro.jpg', url: '', descricao: 'f',  preco: '20,00'}
+  - {name: 'Eu Sou o Número Quatro', autor: 'Pittacus Lore',          img: 'assets/img/eu-sou-numero-quatro.jpg', url: '', descricao: 'f',  preco: '20,00'}
+  - {name: 'O Poder dos Seis', autor: 'Pittacus Lore',                img: 'assets/img/o-poder-dos-seis.jpg', url: '', descricao: 'c',  preco: '20,00'}
+  - {name: 'A Ascensão dos Nove', autor: 'Pittacus Lore',             img: 'assets/img/a-ascensao-dos-nove.jpg', url: '', descricao: 'd',  preco: '20,00'}
+  - {name: 'Limites da Fundação', autor: 'Isaac Asimov',              img: 'assets/img/limites-da-fundacao.jpg', url: '', descricao: 'e',  preco: '35,00'}
+  - {name: 'Segunda Fundação', autor: 'Isaac Asimov',                 img: 'assets/img/segunda-fundacao.jpg', url: '', descricao: 'f',  preco: '30,00'}
+  - {name: 'Fundação e Império', autor: 'Isaac Asimov',               img: 'assets/img/fundacao-e-imperio.jpg', url: '', descricao: 'f',  preco: '30,00'}
+  - {name: 'Filhos do Éden - Livro 1', autor: 'Eduardo Spohr',        img: 'assets/img/filhos-do-eden.jpg', url: '', descricao: 'f',  preco: '15,00'}
+  - {name: 'A Batalha do Apocalipse', autor: 'Eduardo Spohr',         img: 'assets/img/a-batalha-do-apocalipse.jpg', url: '', descricao: 'f',  preco: '20,00'}
+  - {name: 'Crônicas de Espada e Magia', autor: 'Vários',             img: 'assets/img/cronicas-de-espada-e-magia.jpg', url: '', descricao: 'f',  preco: '65,00'}
+  - {name: 'O Enigma do Quatro', autor: 'Ian Caldwell',               img: 'assets/img/o-enigma-do-quatro.jpg', url: '', descricao: 'f',  preco: '15,00'}
+  - {name: 'Deuses, Herois e Lendas', autor: 'Vários',                img: 'assets/img/deuses-herois-e-lendas.jpg', url: '', descricao: 'f',  preco: '30,00'}
+  - {name: 'Um Paranaense - Joanir Zonta', autor: 'Nilson Monteiro',  img: 'assets/img/um-paranaense.jpg', url: '', descricao: 'f',  preco: '5,00'}
+  - {name: 'Metodologia de Pesquisa para Ciências da Computação', autor: '', img: 'assets/img/metodologia-de-pesquisa.jpg', url: '', descricao: 'f',  preco: '50,00'}
+  - {name: 'Steve Jobs', autor: 'Walter Isaacson',                    img: 'assets/img/steve-jobs.jpg', url: '', descricao: 'f',  preco: '40,00'}
+  - {name: 'O Júri', autor: 'John Grishan',                           img: 'assets/img/o-juri.jpg', url: '', descricao: 'f',  preco: '15,00'}
+  - {name: 'O Rei das Fraudes', autor: 'John Grishan',                img: 'assets/img/o-rei-das-fraudes.jpg', url: '', descricao: 'f',  preco: '20,00'}
+  - {name: 'Amor de Perdição', autor: 'Camilo Castelo Branco',        img: 'assets/img/amor-de-perdicao.jpg', url: '', descricao: 'f',  preco: '10,00'}
+  - {name: 'Felicidade ou Morte', autor: 'Vários',                    img: 'assets/img/felicidade-ou-morte.jpg', url: '', descricao: 'f',  preco: '20,00'}
+  - {name: 'Branca dos Mortos e os 7 Zumbis', autor: 'Abu Fobiya',    img: 'assets/img/branca-dos-mortos.jpg', url: '', descricao: 'f',  preco: '40,00'}
+  - {name: 'Introdução à HTML e PHP', autor: 'Vários',                img: 'assets/img/html-e-php.jpg', url: '', descricao: 'f',  preco: '10,00'}
+  - {name: 'Manual do Detetive Virtual', autor: 'Wanderson Castilho', img: 'assets/img/manual-do-detetive-virtual.jpg', url: '', descricao: 'f',  preco: '15,00'}
+  - {name: 'Por que os Homens mentem e as Mulheres Choram?', autor: 'Allan e Barbara Paese', img: 'assets/img/porque-os-homens-mentem.jpg', url: '', descricao: 'f',  preco: '20,00'}
+  - {name: 'Desvendando os segredos da Atração Sexual', autor: 'Allan e Barbara Paese',      img: 'assets/img/desvendando-os-segredos.jpg', url: '', descricao: 'f',  preco: '30,00'}
+  - {name: 'A Linguagem Corporal no Trabalho', autor: 'Allan e Barbara Paese',               img: 'assets/img/linguagem-corporal1.jpg', url: '', descricao: 'f',  preco: '25,00'}
+  - {name: 'Dr. House - Um guia para a vida', autor: 'Toni De La Torre',                     img: 'assets/img/dr-house.jpg', url: '', descricao: 'f',  preco: '10,00'}
+  - {name: 'Sua Carreira', autor: 'Vários',                                     img: 'assets/img/sua-carreira.jpg', url: '', descricao: 'f',  preco: '15,00'}
+  - {name: 'Casais Inteligentes Enriquecem Juntos', autor: 'Gustavo Cerbasi',   img: 'assets/img/casais-inteligentes.jpg', url: '', descricao: 'f',  preco: '20,00'}
+  - {name: 'Desvendando o Universo Hacker', autor: 'Fabrizio Vesica',           img: 'assets/img/segredo-hacker.jpg', url: '', descricao: 'f',  preco: '5,00'}
+  - {name: 'Causos da Propaganda 2', autor: 'Vários',                 img: 'assets/img/causos-propaganda-2.jpg', url: '', descricao: 'f',  preco: '10,00'}
+  - {name: 'Curso Essencial de Lógica de Programação', autor: 'Marilane Almeida', img: 'assets/img/logica-de-programacao.jpg', url: '', descricao: 'f',  preco: '8,00'}
+  - {name: 'Roteadores CISCO', autor: 'Marco Fillippet',              img: 'assets/img/roteadores-cisco.jpg', url: '', descricao: 'f',  preco: '20,00'}
+  - {name: 'O Sentimento da Pedra', autor: 'Latif',                   img: 'assets/img/o-sentimento-da-pedra.jpg', url: '', descricao: 'f',  preco: '5,00'}
+  - {name: 'O Drama da Liderança', autor: 'André Tadeu',              img: 'assets/img/o-drama-da-lideranca.jpg', url: '', descricao: 'f',  preco: '10,00'}
+  - {name: 'Treinamento Avançado em XML', autor: 'Rogério Amorim de Faria', img: 'assets/img/treinamento-avancado-xml.jpg', url: '', descricao: 'f',  preco: '10,00'}
+  - {name: 'Oficina do Empreendedor', autor: 'Fernando Dolabela',           img: 'assets/img/oficina-do-empreendedor.jpg', url: '', descricao: 'f',  preco: '20,00'}
+  - {name: 'Detone', autor: 'Vários',                                 img: 'assets/img/detone.jpg', url: '', descricao: 'f',  preco: '15,00'}
