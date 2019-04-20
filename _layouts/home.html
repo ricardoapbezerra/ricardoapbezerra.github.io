@@ -1,0 +1,59 @@
+---
+layout: default
+---
+<div class="home">
+<h4>Olá, para maiores detalhes sobre o estado de conservação dos livros (já que são usados) por favor entre em contato comigo</h4>
+</div>
+
+
+<div class="row">
+  {% for livro in site.data.catalogo.livros %}
+    <div class="col-sm-3">
+      <div class="card">
+        <div class="card-body">
+          <img src="{{ livro.img }}" alt="">
+          <h4 class="card-title">{{ livro.name }}</h4>
+<!--          <p class="card-text"><strong>Descrição:</strong> {{ livro.descricao }}</p> -->
+          <p class="card-text"><strong>Preço:</strong> {{ livro.preco }}</p>
+<!--          <a href="{{ livro.url }}" class="btn btn-primary">Mais detalhe</a> -->
+        </div>
+      </div>
+    </div>
+   {% endfor %}
+</div>
+
+<p>
+  <h5>Conheça <a href="https://www.skoob.com.br/">Skoob</a>, a rede social para amantes de livros</h5>
+</p>
+<!--
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+
+</div>
+-->
